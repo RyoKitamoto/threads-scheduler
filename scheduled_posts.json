@@ -22,7 +22,7 @@
       "container_id": "18079068737234628",
       "scheduled_time": "2026-04-16T22:00:00+09:00",
       "theme": "良い肌＝良い睡眠×正しいスキンケアの掛け算",
-      "status": "pending",
+      "status": "expired",
       "post_id": null
     },
     {
@@ -30,8 +30,8 @@
       "container_id": "18079068743234628",
       "scheduled_time": "2026-04-16T23:00:00+09:00",
       "theme": "友達「最近肌どうしてんの？」会話劇",
-      "status": "pending",
-      "post_id": null
+      "status": "published",
+      "post_id": "17995713827768560"
     },
     {
       "id": "2026-04-17-00:00",
