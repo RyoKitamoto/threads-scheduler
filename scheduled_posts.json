@@ -54,7 +54,7 @@
       "container_id": "18079185272234628",
       "scheduled_time": "2026-04-17T07:30:00+09:00",
       "theme": "睡眠×テストステロン15%",
-      "status": "pending",
+      "status": "expired",
       "post_id": null
     },
     {
@@ -62,8 +62,8 @@
       "container_id": "18079185284234628",
       "scheduled_time": "2026-04-17T08:00:00+09:00",
       "theme": "ビタミンD98%不足",
-      "status": "pending",
-      "post_id": null
+      "status": "published",
+      "post_id": "18085604993522848"
     },
     {
       "id": "2026-04-17-0830",
