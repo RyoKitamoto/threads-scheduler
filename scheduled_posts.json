@@ -1,0 +1,45 @@
+{
+  "user_id": "26577900168506682",
+  "posts": [
+    {
+      "id": "2026-04-16-18:00",
+      "container_id": "18079068710234628",
+      "scheduled_time": "2026-04-16T18:00:00+09:00",
+      "theme": "【筋トレしてる人、これ足りてない】",
+      "status": "pending",
+      "post_id": null
+    },
+    {
+      "id": "2026-04-16-21:00",
+      "container_id": "18079068722234628",
+      "scheduled_time": "2026-04-16T21:00:00+09:00",
+      "theme": "寝る前5分でモテ肌になる話",
+      "status": "pending",
+      "post_id": null
+    },
+    {
+      "id": "2026-04-16-22:00",
+      "container_id": "18079068737234628",
+      "scheduled_time": "2026-04-16T22:00:00+09:00",
+      "theme": "良い肌＝良い睡眠×正しいスキンケアの掛け算",
+      "status": "pending",
+      "post_id": null
+    },
+    {
+      "id": "2026-04-16-23:00",
+      "container_id": "18079068743234628",
+      "scheduled_time": "2026-04-16T23:00:00+09:00",
+      "theme": "友達「最近肌どうしてんの？」会話劇",
+      "status": "pending",
+      "post_id": null
+    },
+    {
+      "id": "2026-04-17-00:00",
+      "container_id": "18079068755234628",
+      "scheduled_time": "2026-04-17T00:00:00+09:00",
+      "theme": "毛穴パック、やればやるほど毛穴が広がる",
+      "status": "pending",
+      "post_id": null
+    }
+  ]
+}
