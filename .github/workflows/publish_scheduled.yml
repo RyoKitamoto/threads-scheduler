@@ -1,8 +1,6 @@
 name: Threads 予約投稿を自動公開
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
