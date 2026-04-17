@@ -33,7 +33,7 @@ def main():
 
         diff_minutes = (now - scheduled).total_seconds() / 60
 
-        if 0 <= diff_minutes <= 30:
+        if 0 <= diff_minutes <= 120:
             print(f"Publishing: {post['theme']} (container: {post['container_id']})")
             try:
                 result = publish(post["container_id"])
@@ -45,7 +45,7 @@ def main():
                 post["status"] = "error"
                 post["error"] = str(e)
             changed = True
-        elif diff_minutes > 30:
+        elif diff_minutes > 120:
             print(f"Expired: {post['theme']}")
             post["status"] = "expired"
             changed = True
